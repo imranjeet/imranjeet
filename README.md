@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranjeet&label=Views&color=blue&style=plastic" alt="imranjeet" /> </p>
 
+---
+
 # 😎 About Me :
 
 - 🔭 I’m currently working on [freelancer!](https://www.freelancer.in/).
@@ -16,6 +18,7 @@
   catch(e) { 
     learn(e); 
   } 
+  
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/silent_eyes721) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamranjeet) 
@@ -25,12 +28,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imranjeet&theme=flag-india&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imranjeet&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-####  😇 Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=simple)
-
-#### 😂 Dev Meme
-<img src="https://random-memer.herokuapp.com/" height="256px"/>
-
+##  😇 Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=simple) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imranjeet&icon=0&color=1)](https://visitcount.itsvg.in)
