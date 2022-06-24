@@ -25,10 +25,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imranjeet&theme=flag-india&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imranjeet&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-####  😇 Programmers Quote
+####  😇 Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=simple)
 
-#### 😂 Programmers Meme
+#### 😂 Dev Meme
 <img src="https://random-memer.herokuapp.com/" height="256px"/>
 
 
