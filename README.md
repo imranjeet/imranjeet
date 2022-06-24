@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranjeet&label=Views&color=blue&style=plastic" alt="imranjeet" /> </p>
 
----
 
 # 😎 About Me :
 
