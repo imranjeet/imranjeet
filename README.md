@@ -5,7 +5,7 @@
 
 # 😎 About Me :
 
-- 🔭 I’m currently working on [freelancer!](https://www.freelancer.in/).
+<!-- - 🔭 I’m currently working on [freelancer!](https://www.freelancer.in/). -->
 - 🌱 I’m currently learning more about Flutter and Python.
 - 🤔 I’m looking for help with Data structures and algorithms.
 - 💬 Ask me about Flutter or any tech-related stuff.
