@@ -6,8 +6,8 @@
 # 😎 About Me :
 
 <!-- - 🔭 I’m currently working on [freelancer!](https://www.freelancer.in/). -->
-- 🌱 I’m currently learning more about Flutter and Python.
-- 🤔 I’m looking for help with Data structures and algorithms.
+- 🌱 I’m currently learning more about Full stack web and Django.
+- 🤔 I’m looking for help about Django.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [Instagram!](https://www.instagram.com/silent_eyes721/).
 - 😄 Fun fact: About me-> while (!dead) { 
