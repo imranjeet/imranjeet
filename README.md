@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning more about Full stack web and Django.
 - 🤔 I’m looking for help about Django.
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Instagram!](https://www.instagram.com/silent_eyes721/).
+- 📫 How to reach me: [Instagram!](https://www.instagram.com/).
 - 😄 Fun fact: About me-> while (!dead) { 
   try { 
     code(); 
