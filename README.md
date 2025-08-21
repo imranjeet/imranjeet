@@ -20,7 +20,7 @@
   
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/silent_eyes721) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamranjeet) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamranjeet) 
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=imranjeet&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
